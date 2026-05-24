@@ -60,6 +60,7 @@ I'm a **Software & Intelligent Systems Engineering student** at **FST Tangier (F
 | 🕒 [UniTime](https://github.com/najlae-najdi-akel/Unitime) | AI-powered university scheduling system | FastAPI, Docker, React, Ollama | 🚀 Live |
 | 🛒 [Recommandation Amazon](https://github.com/najlae-najdi-akel/Recommandation-de-produits-fa-on-Amazon) | Product recommendation engine in the style of Amazon | Python, Graphs, Algorithms | ✅ Completed |
 | 📈 [Mexora BI](https://github.com/najlae-najdi-akel/mexora) | ETL Pipeline & Data Warehouse — End-to-end BI project | Power BI, ETL, Data Warehouse | ✅ Completed |
+| 🏥 [BreakTaboo](https://github.com/najlae-najdi-akel/BreakTaboo) | 'Phygital' web app to promote sexual health awareness for Moroccan youth — 2nd Prize Hackathon | HTML, CSS, JS | 🥈 2nd Prize |
 
 ---
 
