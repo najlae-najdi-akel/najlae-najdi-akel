@@ -95,4 +95,8 @@ Lycée Technique Moulay Youssef | 2023
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=najlae-najdi-akel&show_icons=true&theme=radical)
+
+---
+
 <p align="center"><em>Let's build something impactful together 🚀</em></p>
