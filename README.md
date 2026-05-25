@@ -1,9 +1,11 @@
-<h1 align="center">Hi RallyIA Staff 👋 — I'm Najlae</h1>
+<h1 align="center">Hi RallyIA Team 👋 — I'm Najlae</h1>
+
 <h3 align="center">
-<em>"Searching for talents to build the future of Moroccan AI?<br>
-Scroll down — I think you just found her. 🌍<br><br>
-From the North to the Sahara, I'm ready.<br>
-See you in Merzouga. 🏜️🚀"</em>
+<em>
+"Searching for talents shaping the future of Moroccan AI?<br>
+From the North to the Sahara, I’m already building it. 🌍🚀<br><br>
+See you in Merzouga. 🏜️"
+</em>
 </h3>
 
 <p align="center">
