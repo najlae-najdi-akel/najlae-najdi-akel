@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Najlae 👋</h1>
-<h3 align="center"><em>"Building intelligent systems, one line at a time."</em></h3>
+<h1 align="center">Hi RallyIA Staff 👋 — I'm Najlae</h1>
+<h3 align="center">
+<em>"Searching for talents to build the future of Moroccan AI?<br>
+Scroll down — I think you just found her. 🌍<br><br>
+From the North to the Sahara, I'm ready.<br>
+See you in Merzouga. 🏜️🚀"</em>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/najlae-najdi-akel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
