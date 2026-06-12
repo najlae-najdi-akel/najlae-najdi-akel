@@ -79,7 +79,10 @@ I'm a **Software & Intelligent Systems Engineering student** at **FST Tangier (F
 
 - 🥈 **2nd Prize** — 3rd Digi-Hackathon on Mobile Health *(Ministry of Health & Social Protection, Oct 2025)*
 - 🚀 **Participant** — RamadanIA Hackathon *(Ministry of Digital Transition, March 2026)*
+- 🚀 **Participant** — RallyIA Future Lab *(Ministry of Digital Transition, June 2026)*
 - 👩‍💼 **Project Manager** — Enactus FST Tangier *(2023–2024)*
+- 👩‍💼 **Participant** — Bootcamp LevelUP *(Enactus Morocco & Tamwilcom, April 2026)*
+- 👩‍💼 **Participant** — Bootcamp Empact *(Enactus Morocco & OCP, March 2024)*
 
 ---
 
