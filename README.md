@@ -1,8 +1,8 @@
-<h1 align="center">Hi RallyIA Team 👋 — I'm Najlae</h1>
+<h1 align="center">Hi Enactus Morocco Team 👋 — I'm Najlae</h1>
 <h3 align="center">
-<em>"Searching for talents to shape the future of Moroccan AI?<br>
-I think you just found one. 🚀<br><br>
-See you in Merzouga. 🏜️"</em>
+<em>"Looking for passionate innovators to build impactful solutions in the equine sector?<br>
+I believe you've just found one. 🚀<br><br>
+See you in Bouznika. 🏇🏼 "</em>
 </h3>
 
 <p align="center">
