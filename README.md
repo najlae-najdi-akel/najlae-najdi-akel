@@ -21,6 +21,7 @@ I'm a **Software & Intelligent Systems Engineering student** at **FST Tangier (F
 - 💼 Freelance developer with **2 delivered client projects**
 - 🏆 **2nd Prize Winner** — 3rd Digi-Hackathon on Mobile Health, Ministry of Health
 - 🚀 Participant — RamadanIA Hackathon, Ministry of Digital Transition
+- 🚀 Participant — RallyIA Future Lab, Ministry of Digital Transition
 - 🌍 Fluent in **Arabic**, **French**, and **English**
 
 ---
