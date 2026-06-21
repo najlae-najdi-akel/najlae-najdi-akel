@@ -1,8 +1,7 @@
-<h1 align="center">Hi Enactus Morocco Team 👋 — I'm Najlae</h1>
+<h1 align="center">Hi 👋 — I'm Najlae</h1>
 <h3 align="center">
-<em>"Looking for passionate innovators to build impactful solutions in the equine sector?<br>
-I believe you've just found one. 🚀<br><br>
-See you in Bouznika. 🏇🏼 "</em>
+<em><br><br>
+</em>
 </h3>
 
 <p align="center">
