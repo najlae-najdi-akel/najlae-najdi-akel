@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋 — I'm Najlae</h1>
-<h3 align="center">
-<em><br><br>
-</em>
-</h3>
+<h1 align="center">Hi 👋, I'm Najlae</h1>
+<h3 align="center">Data Engineering & Analytics student · Building data pipelines</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/najlae-najdi-akel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,88 +11,61 @@
 
 ## 🎓 About Me
 
-I'm a **Software & Intelligent Systems Engineering student** at **FST Tangier (FSTT)**, passionate about full-stack development, data engineering, and building real-world solutions.
+Software & Intelligent Systems Engineering student at **FST Tangier**, focused on **data engineering and analytics**.
+I enjoy turning raw data into reliable, automated pipelines and clear insights.
 
-- 🔭 Currently studying **Cycle Ingénieur LSI** at FSTT
-- 💼 Freelance developer with **2 delivered client projects**
-- 🏆 **2nd Prize Winner** — 3rd Digi-Hackathon on Mobile Health, Ministry of Health
-- 🚀 Participant — RamadanIA Hackathon, Ministry of Digital Transition
-- 🚀 Participant — RallyIA Future Lab, Ministry of Digital Transition
-- 🌍 Fluent in **Arabic**, **French**, and **English**
+- 🔭 Currently: Cycle Ingénieur LSI at FSTT, following a Data Engineering bootcamp (DataMaroc)
+- 🏆 2nd Prize, 3rd Digi-Hackathon on Mobile Health (Ministry of Health)
+- 🚀 Participant, RamadanIA Hackathon and RallyIA Future Lab (Ministry of Digital Transition)
+- 🌍 Arabic, French, English
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming**
+**Languages & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Web Development**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Data**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Star Schema](https://img.shields.io/badge/Star_Schema-00B388?style=flat-square&logo=databricks&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-**Networks & IoT**
+**Tools & DevOps**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+> 📈 This list grows as I learn.
 
 ---
 
-## 💼 Featured Projects
+## 💼 Projects
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| 🎮 [Game Master Dashboard](https://github.com/najlae-najdi-akel/game-master-dashboard) | Real-time control system for Phobia Escape Room — timer, hints, video & sound management | HTML, CSS, JS, JSON | ✅ Delivered |
-| 🌐 [Phobia Website](https://github.com/najlae-najdi-akel/phobia_siteweb) | Professional website for Phobia Escape Room with 4 room pages, reviews & Maps | HTML, CSS, JS, PHP, MySQL | ✅ Delivered |
-| 📊 [DataVail](https://github.com/najlae-najdi-akel/Datavail) | Web app for resource management and reservation | Laravel, MySQL, RBAC | ✅ Completed |
-| 🕒 [UniTime](https://github.com/najlae-najdi-akel/Unitime) | AI-powered university scheduling system | FastAPI, Docker, React, Ollama | 🚀 Live |
-| 🛒 [Recommandation Amazon](https://github.com/najlae-najdi-akel/Recommandation-de-produits-fa-on-Amazon) | Product recommendation engine in the style of Amazon | Python, Graphs, Algorithms | ✅ Completed |
-| 📈 [Mexora BI](https://github.com/najlae-najdi-akel/mexora) | ETL Pipeline & Data Warehouse — End-to-end BI project | Power BI, ETL, Data Warehouse | ✅ Completed |
-| 🏥 [BreakTaboo](https://github.com/najlae-najdi-akel/BreakTaboo) | 'Phygital' web app to promote sexual health awareness for Moroccan youth — 2nd Prize Hackathon | HTML, CSS, JS | 🥈 2nd Prize |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 📦 [BIM Sales & Returns Pipeline](https://github.com/najlae-najdi-akel/BIM-Sales-Pipeline) | Automated pipelines processing daily CSV files from 3 branches: validation, auto-fix of malformed headers, aggregation, archiving, logging, and a web viewer for the report | Bash, sed, awk, Docker, nginx |
+
+*More projects coming as I progress.*
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Prize** — 3rd Digi-Hackathon on Mobile Health *(Ministry of Health & Social Protection, Oct 2025)*
-- 🚀 **Participant** — RamadanIA Hackathon *(Ministry of Digital Transition, March 2026)*
-- 🚀 **Participant** — RallyIA Future Lab *(Ministry of Digital Transition, June 2026)*
-- 👩‍💼 **Project Manager** — Enactus FST Tangier *(2023–2024)*
-- 👩‍💼 **Participant** — Bootcamp LevelUP *(Enactus Morocco & Tamwilcom, April 2026)*
-- 👩‍💼 **Participant** — Bootcamp Empact *(Enactus Morocco & OCP, March 2024)*
+- 🥈 **2nd Prize**, 3rd Digi-Hackathon on Mobile Health *(Ministry of Health & Social Protection, Oct 2025)*
+- 🚀 **Participant**, RamadanIA Hackathon *(Ministry of Digital Transition, March 2026)*
+- 🚀 **Participant**, RallyIA Future Lab *(Ministry of Digital Transition, June 2026)*
+- 👩‍💼 **Project Manager**, Enactus FST Tangier *(2023–2024)*
 
 ---
 
 ## 📚 Education
 
-🎓 **Cycle Ingénieur — Logiciel et Systèmes Intelligents (LSI)**
-FST Tangier | 2025 – 2028
-
-🎓 **DEUST MIPC**
-FST Tangier | 2023 – 2025
-
-🎓 **Baccalauréat Sciences Mathématiques B**
-Lycée Technique Moulay Youssef | 2023
+🎓 **Cycle Ingénieur, Logiciel et Systèmes Intelligents (LSI)**: FST Tangier | 2025 – 2028
+🎓 **DEUST MIPC**: FST Tangier | 2023 – 2025
 
 ---
 
-<p align="center"><em>Let's build something impactful together 🚀</em></p>
+<p align="center"><em>Open to data internships and collaborations 🚀</em></p>
