@@ -11,7 +11,7 @@
 
 ## 🎓 About Me
 
-Software & Intelligent Systems Engineering student at **FST Tangier**, focused on **data engineering and analytics**.
+Software & Intelligent Systems Engineering student at **FST Tangier**, focused on **data engineering and AI**.
 I enjoy turning raw data into reliable, automated pipelines and clear insights.
 
 - 🔭 Currently: Cycle Ingénieur LSI at FSTT, following a Data Engineering bootcamp (DataMaroc)
