@@ -26,10 +26,10 @@ I enjoy turning raw data into reliable, automated pipelines and clear insights.
 **Languages & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-11557C?style=flat-square&logo=SQL&logoColor=white)
 
 **Tools & DevOps**
 
@@ -47,6 +47,7 @@ I enjoy turning raw data into reliable, automated pipelines and clear insights.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 📦 [BIM Sales & Returns Pipeline](https://github.com/najlae-najdi-akel/BIM-Sales-Pipeline) | Automated pipelines processing daily CSV files from 3 branches: validation, auto-fix of malformed headers, aggregation, archiving, logging, and a web viewer for the report | Bash, sed, awk, Docker, nginx |
+| 🛍️ [Retail Data Analytics](https://github.com/najlae-najdi-akel/Retail-data-analytics) | Analysis of retail data: cleaning, exploration and insights to understand sales performance | SQL, Python, Pandas |
 
 *More projects coming as I progress.*
 
