@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineering student · Building data pipelines</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/najlae-najdi-akel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/najlaenajdiakel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/</a>
   <a href="mailto:najlae.najdiakel@etu.uae.ac.ma"><img src="https://img.shields.io/badge/Email-Contact Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Tangier, Morocco-00B388?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
@@ -47,7 +47,7 @@ I enjoy turning raw data into reliable, automated pipelines and clear insights.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 📦 [BIM Sales & Returns Pipeline](https://github.com/najlae-najdi-akel/BIM-Sales-Pipeline) | Automated pipelines processing daily CSV files from 3 branches: validation, auto-fix of malformed headers, aggregation, archiving, logging, and a web viewer for the report | Bash, sed, awk, Docker, nginx |
-| 🛍️ [Retail Data Analytics](https://github.com/najlae-najdi-akel/Retail-data-analytics) | Analysis of retail data: cleaning, exploration and insights to understand sales performance | SQL, Python, Pandas |
+| 🛍️ [Retail Data Analytics](https://github.com/najlae-najdi-akel/Retail-data-analytics) | Analysis of 540K+ online retail transactions: data quality diagnosis, documented cleaning rules, and revenue, product, customer and country analysis with visualizations | Python, Pandas, Matplotlib |
 
 *More projects coming as I progress.*
 
