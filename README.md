@@ -29,7 +29,7 @@ I enjoy turning raw data into reliable, automated pipelines and clear insights.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-11557C?style=flat-square&logo=SQL&logoColor=white)
 
 **Tools & DevOps**
 
