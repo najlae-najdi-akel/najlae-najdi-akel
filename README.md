@@ -31,12 +31,15 @@ I enjoy turning raw data into reliable, automated pipelines and clear insights.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
+
 **Tools & DevOps**
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 > 📈 This list grows as I learn.
 
@@ -48,6 +51,7 @@ I enjoy turning raw data into reliable, automated pipelines and clear insights.
 |---------|-------------|-------|
 | 📦 [BIM Sales & Returns Pipeline](https://github.com/najlae-najdi-akel/BIM-Sales-Pipeline) | Automated pipelines processing daily CSV files from 3 branches: validation, auto-fix of malformed headers, aggregation, archiving, logging, and a web viewer for the report | Bash, sed, awk, Docker, nginx |
 | 🛍️ [Retail Data Analytics](https://github.com/najlae-najdi-akel/Retail-data-analytics) | Analysis of 540K+ online retail transactions: data quality diagnosis, documented cleaning rules, and revenue, product, customer and country analysis with visualizations | Python, Pandas, Matplotlib |
+| 🚗 [InDrive Rides Pipeline](https://github.com/najlae-najdi-akel/indrive-pipeline) | Ride-hailing data pipeline: batch and streaming sources through raw, staging and mart layers, orchestrated with Airflow in Docker | Airflow, PostgreSQL, SQL, Docker |
 
 *More projects coming as I progress.*
 
